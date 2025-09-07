@@ -28,7 +28,7 @@ Demo API with fake user data (no auth required).</p>
 <h3>🛠️ How to Use</h3>
 <pre>
 git clone https://github.com/yourusername/flutter-getx-dio-boilerplate.git
-cd getx-api-boilerplate
+cd flutter-getx-dio-boilerplate
 flutter pub get
 flutter run
 </pre>
