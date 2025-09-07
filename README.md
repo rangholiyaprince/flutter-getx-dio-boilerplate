@@ -27,7 +27,7 @@ Demo API with fake user data (no auth required).</p>
 
 <h3>🛠️ How to Use</h3>
 <pre>
-git clone https://github.com/yourusername/getx-api-boilerplate.git
+git clone https://github.com/yourusername/flutter-getx-dio-boilerplate.git
 cd getx-api-boilerplate
 flutter pub get
 flutter run
@@ -49,10 +49,6 @@ flutter run
   <li>💼 Practicing scalable GetX design patterns</li>
   <li>📚 Adding solid architecture projects to your resume</li>
 </ul>
-
-<h3>🎥 Learn More</h3>
-<p>This project is a part of my YouTube tutorial series on Flutter API Integration with Clean Architecture & GetX.</p>
-<p>📺 <a href="https://www.youtube.com/playlist?list=PL8l8kuYZPrznq7Ug-rl7BRN4eOlYAp2Dw" target="_blank">Watch the full video series here</a></p>
 
 <h3>🙌 Support & Contributions</h3>
 <p>If you find this helpful, please ⭐ the repo and consider sharing it!</p>
